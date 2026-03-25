@@ -26,27 +26,6 @@ other poker solver or training software.
 Nothing in this app constitutes financial advice. 
 Poker involves risk. Only play with money you can 
 afford to lose.
-```
 
----
-
-## 3. Enable GitHub Pages
-
-1. In your repo go to **Settings** → scroll down to **Pages**
-2. Under **Source** select **Deploy from a branch**
-3. Under **Branch** select **main** → **/ (root)**
-4. Click **Save**
-5. Wait 2-3 minutes
-
-Your URLs will be:
-- `https://nathantang.github.io/pokerlog-privacy`
-- `https://nathantang.github.io/pokerlog-privacy/terms`
-- `https://nathantang.github.io/pokerlog-privacy/disclaimer`
-
----
-
-## 4. Update App Store Connect
-
-Go back to your app in App Store Connect and paste the privacy policy URL into the **Privacy Policy URL** field:
-```
-https://nathantang.github.io/pokerlog-privacy
+## Contact
+nathantang924@gmail.com
