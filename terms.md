@@ -37,4 +37,4 @@ Continued use of the app constitutes acceptance of
 any changes.
 
 ## Contact
-nathantang@[youremail].com
+nathantang924@gmail.com
