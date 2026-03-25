@@ -23,4 +23,4 @@ through the App Store. We do not store any payment
 or billing information.
 
 ## Contact
-For privacy questions contact: nathantang@[youremail].com
+For privacy questions contact: nathantang924@gmail.com
